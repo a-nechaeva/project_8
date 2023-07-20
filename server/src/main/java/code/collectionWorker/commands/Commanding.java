@@ -1,4 +1,4 @@
 package code.collectionWorker.commands;
 
-public class Command {
+public interface Commanding {
 }

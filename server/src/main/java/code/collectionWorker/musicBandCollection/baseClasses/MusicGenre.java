@@ -7,5 +7,6 @@ public enum MusicGenre {
     ROCK,
     POP,
     CLASSIC,
+    ELECTRIC,
     BRIT_POP;
 }

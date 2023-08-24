@@ -1,4 +1,4 @@
 package code.collectionWorker;
 
-public class commandManager {
+public class CommandManager {
 }
